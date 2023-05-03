@@ -2,7 +2,7 @@
 
 Allows users to test and evaluate different machine learning algorithms on a breast cancer dataset to diagnose whether a patient has malignant or benign cancer. The evaluation metrics are displayed to the user in an interactive bar chart.
 
-##HOW IT WORKS
+## HOW IT WORKS
 
 - This is a web application that allows users to test different machine learning algorithms on a breast cancer dataset to diagnose whether a patient has malignant or benign cancer.
 
