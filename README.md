@@ -1,5 +1,9 @@
 # Project_4_Deployment_Test
 
+Allows users to test and evaluate different machine learning algorithms on a breast cancer dataset to diagnose whether a patient has malignant or benign cancer. The evaluation metrics are displayed to the user in an interactive bar chart.
+
+##HOW IT WORKS
+
 - This is a web application that allows users to test different machine learning algorithms on a breast cancer dataset to diagnose whether a patient has malignant or benign cancer.
 
 - The application uses Streamlit, a Python library that helps to build interactive web applications. 
@@ -10,4 +14,4 @@
 
 - The evaluation metrics for each model are stored in a dictionary and then converted into a Pandas DataFrame. The DataFrame is then melted into long format, and a bar chart is created using Plotly Express to display the evaluation metrics for each model.
 
-- To summarize, this application allows users to test and evaluate different machine learning algorithms on a breast cancer dataset to diagnose whether a patient has malignant or benign cancer. The evaluation metrics are displayed to the user in an interactive bar chart.
+
