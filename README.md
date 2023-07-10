@@ -1,8 +1,10 @@
-## This is the deployment of Poject 4. See the link below.
+
+
+## This is the continuation of Breast_Cancer_ML_Project_4. See the link below:
 
 [Comparing Supervised Machine Learning Algorithms for Breast Cancer Diagnosis](https://github.com/MTanguin/Breast_Cancer_ML_Project_4)
 
-#### Project_4_Deployment_Test
+## Deployment
 
 Allows users to test and evaluate different machine learning algorithms on a breast cancer dataset to diagnose whether a patient has malignant or benign cancer. The evaluation metrics are displayed to the user in an interactive bar chart.
 
