@@ -1,5 +1,4 @@
 
-
 #### This is the continuation of Breast_Cancer_ML_Project_4. See the link below:
 
 [Comparing Supervised Machine Learning Algorithms for Breast Cancer Diagnosis](https://github.com/MTanguin/Breast_Cancer_ML_Project_4)
